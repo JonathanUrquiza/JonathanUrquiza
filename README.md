@@ -11,6 +11,5 @@ const Jonathan = {
 ```
 [![code.gif](https://i.postimg.cc/bJ2XSLHx/code.gif)](https://postimg.cc/9RVgvdk0)​
 
-13
-< h2 > Puedes encontrarme: </ h2 >
+<h2> Puedes encontrarme: </h2>
 <a href=" https://linkedin.com/in/jonathan-javier-urquiza-179a70119/ ">Linkedin</a>

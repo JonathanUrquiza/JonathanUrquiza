@@ -15,4 +15,5 @@ const Jonathan = {
 <ul>
   <li><a href="https://linkedin.com/in/jonathan-javier-urquiza-179a70119/">Linkedin</a></li>
 </ul>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanUrquiza)](https://github.com/anuraghazra/github-readme-stats)

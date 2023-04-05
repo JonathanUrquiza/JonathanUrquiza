@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I´m Jonathan 👋
 
-<!--
-**JonathanUrquiza/JonathanUrquiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```javascript
+const Jonathan = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Styled-Components, Sass],
+ challenge: "I am doing the FreeCodeCamp challenge focused on JavaScript Algorithms and Data Structures"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>You can find me:</h2>
+
+[![linkedin](https://linkedin.com/in/jonathan-javier-urquiza-179a70119/)]
